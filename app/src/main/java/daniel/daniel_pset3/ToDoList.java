@@ -5,6 +5,10 @@ package daniel.daniel_pset3;
  * University of Amsterdam
  * Source used for code: https://www.youtube.com/watch?v=q3rhteIierY
  */
+
+/*
+ * This file creates all functions, later usable in our database to call upon
+ */
 public class ToDoList {
 
     private int _id;
